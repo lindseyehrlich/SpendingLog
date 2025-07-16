@@ -7,6 +7,7 @@
     android:layout_height="wrap_content"
     android:background="?colorSurface"
     app:itemIconTint="@color/navbar_icon_colors"
+    app:itemTextColor="@color/navbar_text_colors"
     app:labelVisibilityMode="labeled"
     app:elevation="8dp"
     app:menu="@menu/bottom_navigation_menu"
