@@ -1,5 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Light Mode Colors -->
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <!-- Ethereal Ivory, Sage, Noir, Moss Palette -->
+
+    <!-- Base Palette -->
+    <color name="ethereal_ivory">#E4E4DE</color>
+    <color name="sophisticated_sage">#C4C5BA</color>
+    <color name="timeless_noir">#1B1B1B</color>
+    <color name="muted_moss">#595F39</color>
+    <color name="muted_moss_dark">#4A5130</color>
+
+    <!-- Light Mode Colors -->
+    <color name="primary_light">#595F39</color>
+    <color name="primary_variant_light">#4A5130</color>
+    <color name="secondary_light">#C4C5BA</color>
+    <color name="background_light">#E4E4DE</color>
+    <color name="surface_light">#C4C5BA</color>
+    <color name="surface_variant_light">#D1D2CC</color>
+    <color name="text_primary_light">#1B1B1B</color>
+    <color name="text_secondary_light">#9A9B90</color>
+    <color name="text_hint_light">#AAAAAA</color>
+
+    <!-- Dark Mode Colors -->
+    <color name="primary_dark">#7A8349</color>
+    <color name="primary_variant_dark">#595F39</color>
+    <color name="secondary_dark">#9A9B90</color>
+    <color name="background_dark">#1B1B1B</color>
+    <color name="surface_dark">#2A2B26</color>
+    <color name="surface_variant_dark">#3A3B36</color>
+    <color name="text_primary_dark">#E4E4DE</color>
+    <color name="text_secondary_dark">#C4C5BA</color>
+    <color name="text_hint_dark">#888888</color>
+
+    <!-- Accent Colors -->
+    <color name="accent_moss">#595F39</color>
+    <color name="accent_moss_light">#7A8349</color>
+    <color name="accent_success">#6B7C47</color>
+    <color name="accent_warning">#A67C52</color>
+    <color name="accent_error">#A65252</color>
+
+    <!-- UI Element Colors -->
+    <color name="divider_light">#D1D2CC</color>
+    <color name="divider_dark">#3A3B36</color>
+    <color name="overlay_light">#80000000</color>
+    <color name="overlay_dark">#80000000</color>
+
+    <!-- Card and Elevation Colors -->
+    <color name="card_light">#F0F0EA</color>
+    <color name="card_dark">#252620</color>
+    <color name="elevation_light">#20000000</color>
+    <color name="elevation_dark">#40FFFFFF</color>
+
+    <!-- Legacy colors for backward compatibility -->
+    <color name="soft_sage">#C4C5BA</color>
+    <color name="deep_forest">#4A5130</color>
+    <color name="warm_cream">#F0F0EA</color>
+
+    <!-- Material Design Colors -->
+    <color name="primary_green">#6B7C47</color>
+    <color name="primary_green_dark">#595F39</color>
+    <color name="accent_green">#7A8349</color>
+
+    <!-- Navbar Colors -->
+    <color name="navbar_background">#C4C5BA</color>
+    <color name="navbar_active">#595F39</color>
+    <color name="navbar_inactive">#9A9B90</color>
+
+    <!-- Status and System Colors -->
+    <color name="status_bar">#595F39</color>
+    <color name="navigation_bar">#C4C5BA</color>
 </resources>
