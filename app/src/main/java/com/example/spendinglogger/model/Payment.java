@@ -1,16 +1,20 @@
 package com.example.spendinglogger.model;
 
+import java.util.Date;
+
 public class Payment {
     private String title;
     private double amount;
     private Category category;
+    private Date date;
     private String notes;
 
-    public Payment(double amount, String title, String notes, Category category) {
+    public Payment(double amount, String title, Category category, Date date, String notes) {
         this.amount = amount;
         this.title = title;
-        this.notes = notes;
         this.category = category;
+        this.date = date;
+        this.notes = notes;
     }
 
     // getters
